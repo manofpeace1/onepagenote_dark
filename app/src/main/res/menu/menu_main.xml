@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.manofstudios.onepagenote.MainActivity">
+
+    <item
+        android:id="@+id/action_sharenote"
+        android:orderInCategory="1"
+        android:title="@string/action_sharenote"
+        android:actionProviderClass=
+            "android.widget.ShareActionProvider" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="2"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_clearnote"
+        android:orderInCategory="3"
+        android:title="@string/action_clearnote"
+        app:showAsAction="never" />
+
+
+</menu>

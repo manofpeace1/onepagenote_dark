@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnePageNote</string>
+    <string name="action_sharenote">✉️ Share Note</string>
+    <string name="action_settings">😇 Help Developer</string>
+    <string name="action_clearnote">❌ Clear Note</string>
+    <string name="hint">Start Typing...</string>
+    <string name="AdNotReady">Ad is not ready yet</string>
+    <string name="save">SAVE</string>
+
+</resources>
