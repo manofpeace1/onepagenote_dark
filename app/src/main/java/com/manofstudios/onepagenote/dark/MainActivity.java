@@ -1,4 +1,4 @@
-package com.manofstudios.onepagenote;
+package com.manofstudios.onepagenote.dark;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -23,6 +23,7 @@ import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
+import com.manofstudios.onepagenote.R;
 
 public class MainActivity extends AppCompatActivity {
 

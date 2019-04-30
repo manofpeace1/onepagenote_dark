@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.manofstudios.onepagenote"
+        applicationId "com.manofstudios.onepagenote.dark"
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 4
